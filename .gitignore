@@ -1,0 +1,8 @@
+#ignore stuff
+node_modules
+build
+public
+.idea
+*.log
+*.txt
+!LICENSE.txt
